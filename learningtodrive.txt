@@ -1,0 +1,35 @@
+#voices Aditi Salli
+
+#transition
+#greeting-interactive
+#introduce-me
+#title Learning to drive a car
+
+#transition
+#smalltalk traffic
+#introduce-me
+#heading Today we will learn how to drive a car
+#paragraph
+@Driving a car is easy
+@But you need to pay attention to the road and traffic signals
+@And, most of all, you need to be calm and controlled at the wheel
+
+#transition
+#heading What are the pre-requisites?
+#bullets
+@Get a driving permit
+@Get a car, of course!
+@Sign up for driving school
+@Start driving!
+
+#transition
+#summary
+@Driving is fun once you learn how to do it!
+
+#transition
+#quiz
+@Can you tell me what is the most important pre-requisite to learn driving?
+
+#transition
+#conclusion
+@For more information, visit us at, 'driving-is-fun@@safe-driving.com'

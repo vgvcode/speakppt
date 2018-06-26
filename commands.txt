@@ -1,0 +1,22 @@
+#steps 1-2 have to be done ONLY ONCE
+1. #install virtualenv if not already done so
+pip install virtualenv
+2. #create a directory to hold virtual env projects
+mkdir virtual
+3. #move to the virtual directory
+cd virtual
+4. #start virtualenv with a new project (project_dir)
+virtualenv project_dir
+(or)
+virtualenv -p python3 project_dir
+5. #activate virtualenv
+source project_dir/bin/activate
+#now your prompt will change to include project_dir
+6. #move to your project_dir
+cd project_dir
+7. #install packages
+pip install package_name
+8. #do your python development inside the virtualenv using vi, atom, shell etc.
+9. #deactivate when done
+deactivate
+

@@ -1,0 +1,66 @@
+#voices Salli Matthew
+
+#transition Matthew
+#greeting
+#introduce-me
+#title Fourth Quarter Results of MY WIDGETS Incorporated
+
+#transition
+#heading How did we do?
+#paragraph
+@On the whole, we had very positive results this quarter
+@We grew our customer base by 5%
+@We reduced our costs of manufacturing widgets by 3%
+@Our net revenue increased by 7% year over year
+@Operating profit increased by 15% year over year
+@Gross revenue this quarter was 23 Million US Dollars
+
+#transition
+#heading Our growth story
+#paragraph
+@Our business is growing significantly in Australia and Canada
+@Our products are very well suited for customers in these geographies
+@Because of manufacturing efficiencies, we are able to bring down the manufacturing costs of widgets
+@This allows us to sell in Australia and Canada at 10% below competitor rates
+
+#transition
+#heading How did we lower manufacturing costs?
+#paragraph
+@We have deployed a new automation software, in our assembly lines, in our factories in Australia and Canada
+@This software reduces the need for manual labour, reduces errors and increases throughput by 15%
+@The net result of all of this is lower operating costs and reduced wastage
+@We plan to deploy this change globally, in the next few months
+
+#transition
+#heading Challenges ahead
+#paragraph
+@While we are continuing to grow, I would like to highlight some of our challenges ahead
+@Increased competition from local players.
+Many local players are producing widgets similar to ours, that work well in their regions.
+@Slow rate of innovation in product design.
+We have come up with only 3 new innovations in products, in the last one year.
+Our leading competitor is innovating at the rate of 20 new products per year.
+@Increase in manufacturing costs and cost of raw materials in the USA.
+Our manufacturing operations in North America, are more costly than in many other countries.
+Our raw materials sourced in the USA, are also more costly than those sourced in other countries.
+
+#transition
+#heading How do we stay ahead?
+#bullets
+@Innovate faster by coming up with more product designs every year
+@Automate our manufacturing processes using Robotics and A.I
+@Build factories local to the geographies we serve in
+@Expand to new markets that have not yet been served by competitors
+
+#transition
+#summary
+@On the whole, we have very good results this Quarter
+@We have made some great strides in automating our assembly lines
+@We face many challenges and need to address them proactively
+
+#transition
+#questions
+
+#transition
+#conclusion
+@For more information, email us at, abc@@mywidgets.com

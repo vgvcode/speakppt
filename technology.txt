@@ -1,0 +1,41 @@
+#voices Kendra Aditi Joanna
+
+#transition
+#greeting-interactive
+#introduce-me
+#title Fundamentals of cloud computing
+
+#transition
+#introduce-me
+#heading What is cloud computing?
+#paragraph
+@It is a new technology that is fundamentally changing the way businesses use IT.
+It provides significant advantages for business in terms of agility, global reach, and reduced costs.
+@From a technology perspective, the cloud is not a new concept.
+It is another form of centralized computing, but with the added benefit of, ubiquitous access.
+@However, this has a lot of implications from a business perspective.
+It has led to the concept of 'Computing as a service'
+
+#transition
+#introduce-me
+#heading What are some key characteristics of cloud?
+#bullets
+@Availability
+@Accessibility
+@Resource pooling
+@Elasticity
+@Metered usage
+#status-check
+
+#transition
+#summary
+@Cloud is a revolutionary technology
+@We all need to get up to speed on it
+
+#transition
+#quiz
+@Can you name any 3 characteristics of cloud?
+
+#transition Kendra
+#conclusion
+@For more information, email us at, abc@@abc.com
